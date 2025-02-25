@@ -1,5 +1,5 @@
 # php-adventures
-my adventure for php
+My Php adventure book
 
 
 # Task List
