@@ -20,6 +20,11 @@ My Php adventure book
 # Task List
  - [x] .gitignore file added 
  - [x] php-pds folder structure is followed Link: (https://github.com/php-pds/skeleton/tree/1.0.0?tab=readme-ov-file#summary)
+ - [ ] by using symfony/console setup example command
+ - [ ] check resources are loading from resource directory
+ - [ ] write sample test using phpunit/phpunit
+ - [ ] write and test sample logging and store logging in log folder
+ - [ ] 
 
 # License
   >  MIT
